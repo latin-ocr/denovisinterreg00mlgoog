@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denovisinterreg00mlgoog_0008.png"; bbox 0 0 713 1102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 283 142 393 197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 283 142 393 197">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 142 384 159; baseline 0.015 -1"><span class='ocrx_word' id='word_1_1' title='bbox 317 142 349 159; x_wconf 76' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 382 152 384 155; x_wconf 57' lang='lat' dir='ltr'>v</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 283 176 393 197; baseline -0.009 0"><span class='ocrx_word' id='word_1_3' title='bbox 283 176 393 197; x_wconf 88' lang='lat' dir='ltr'>NOVIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 102 214 562 306">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 102 214 562 306">
+     <span class='ocr_line' id='line_1_3' title="bbox 102 214 446 255; baseline 0.003 -6"><span class='ocrx_word' id='word_1_4' title='bbox 102 232 104 234; x_wconf 27' lang='lat' dir='ltr'><em>r</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 233 216 250 249; x_wconf 95' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 267 216 301 255; x_wconf 93' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_7' title='bbox 319 214 350 248; x_wconf 92' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_8' title='bbox 369 215 397 248; x_wconf 92' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 412 216 446 250; x_wconf 99' lang='lat' dir='ltr'>R</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 129 264 562 306; baseline 0.002 -1"><span class='ocrx_word' id='word_1_10' title='bbox 129 269 285 305; x_wconf 89' lang='lat' dir='ltr'>REGEM</span> <span class='ocrx_word' id='word_1_11' title='bbox 308 264 562 306; x_wconf 88' lang='lat' dir='ltr'>GALLORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 124 330 576 455">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 124 330 576 451">
+     <span class='ocr_line' id='line_1_5' title="bbox 148 330 576 403; baseline -0.005 -4.962"><span class='ocrx_word' id='word_1_12' title='bbox 148 330 530 403; x_wconf 82' lang='lat' dir='ltr'>MAGISTRATVM</span> <span class='ocrx_word' id='word_1_13' title='bbox 567 341 576 349; x_wconf 57' lang='lat'><strong>²</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 124 428 459 455; baseline 0.003 -5"><span class='ocrx_word' id='word_1_14' title='bbox 124 430 126 432; x_wconf 77' lang='grc'>’</span> <span class='ocrx_word' id='word_1_15' title='bbox 223 428 459 455; x_wconf 84' lang='lat' dir='ltr'>DISSENSIONIBVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 134 763 546 782">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 134 763 546 782">
+     <span class='ocr_line' id='line_1_7' title="bbox 134 763 546 782; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 134 763 546 782; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
